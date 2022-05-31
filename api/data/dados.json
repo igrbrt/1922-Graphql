@@ -41,6 +41,30 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Igor Barreto",
+      "ativo": true,
+      "email": "i@i.com",
+      "role": 3,
+      "createdAt": "2022-05-30T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "nome": "Igor Barreto",
+      "ativo": true,
+      "email": "i@i.com",
+      "role": 2,
+      "createdAt": "2022-04-30T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "nome": "Bia Barreto",
+      "ativo": true,
+      "email": "i@i.com",
+      "role": 1,
+      "createdAt": "2022-04-30T00:00:00.000Z",
+      "id": 9
     }
   ],
   "roles": [
